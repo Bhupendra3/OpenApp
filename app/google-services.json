@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380709982752",
+    "project_id": "openapp-c40ef",
+    "storage_bucket": "openapp-c40ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380709982752:android:febe1ceb79fc60d0f5e245",
+        "android_client_info": {
+          "package_name": "com.example.openapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8w1iqm1Mq3x5KbqmHrX9uoQOEVxpAGf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
